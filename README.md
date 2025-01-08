@@ -23,6 +23,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddshukla&show_icons=true&locale=en" alt="siddshukla" /></p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=siddshukla" alt="GitHub Streak Stats for siddshukla" />
+</p>
 
 
 ![snake gif](https://github.com/siddshukla/siddshukla/blob/output/github-snake-dark.svg)
