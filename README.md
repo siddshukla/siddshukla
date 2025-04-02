@@ -72,7 +72,7 @@
 </h2>
 
 <div align="center">
-  <a href="https://github.com/siddshukla/MajorProject">
+  <a href="https://github.com/siddshukla/blognovasite">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=siddshukla&repo=MajorProject&theme=tokyonight&bg_color=0D1117&title_color=00FFFF&icon_color=FF385C&text_color=FFFFFF&border_color=00FFFF" width="400" />
   </a>
   <a href="https://github.com/siddshukla/MajorProject">
