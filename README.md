@@ -65,19 +65,148 @@
 
 <br>
 
-<!-- FEATURED PROJECT SECTION WITH HOVER EFFECT -->
+<!-- FEATURED PROJECT SECTION WITH CREATIVE SHOWCASE -->
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" />
   Featured Projects
 </h2>
 
+<!-- PROJECT CARDS WITH HOVER EFFECTS -->
 <div align="center">
-  <a href="https://github.com/siddshukla/blognovasite">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=siddshukla&repo=BlogNovaSite&theme=tokyonight&bg_color=0D1117&title_color=00FFFF&icon_color=FF385C&text_color=FFFFFF&border_color=00FFFF" width="400" />
-  </a>
-  <a href="https://github.com/siddshukla/MajorProject">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=siddshukla&repo=MajorProject&theme=tokyonight&bg_color=0D1117&title_color=00FFFF&icon_color=FF385C&text_color=FFFFFF&border_color=00FFFF" width="400" />
-  </a>
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/House.png" alt="House" width="20" height="20" />
+          Wanderlust
+        </h3>
+        <p align="center">
+          <a href="https://github.com/siddshukla/MajorProject" target="_blank">
+            <img src="https://raw.githubusercontent.com/siddshukla/MajorProject/main/frontend/public/project-banner.png" width="100%" alt="Wanderlust Project"/>
+          </a>
+          <p align="center">
+            <a href="https://github.com/siddshukla/MajorProject" target="_blank">
+              <img src="https://img.shields.io/badge/Code-00FFFF?style=for-the-badge&logo=github&logoColor=white"/>
+            </a>
+            <a href="https://wanderlust-demo.vercel.app" target="_blank">
+              <img src="https://img.shields.io/badge/Live-FF385C?style=for-the-badge&logo=vercel&logoColor=white"/>
+            </a>
+          </p>
+          <p align="center"><strong>MongoDB, Express, React, Node.js</strong> - A complete hotel booking platform with user authentication, property listings, reviews, and booking management.</p>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shopping%20Cart.png" alt="Cart" width="20" height="20" />
+          E-Commerce Platform
+        </h3>
+        <p align="center">
+          <a href="https://github.com/siddshukla/ecommerce-app" target="_blank">
+            <img src="https://raw.githubusercontent.com/siddshukla/ecommerce-app/main/public/project-thumbnail.png" width="100%" alt="E-Commerce Project"/>
+          </a>
+          <p align="center">
+            <a href="https://github.com/siddshukla/ecommerce-app" target="_blank">
+              <img src="https://img.shields.io/badge/Code-00FFFF?style=for-the-badge&logo=github&logoColor=white"/>
+            </a>
+            <a href="https://mern-shop-demo.vercel.app" target="_blank">
+              <img src="https://img.shields.io/badge/Live-FF385C?style=for-the-badge&logo=vercel&logoColor=white"/>
+            </a>
+          </p>
+          <p align="center"><strong>Next.js, Redux, MongoDB, Stripe</strong> - Full-featured e-commerce solution with product catalog, shopping cart, payment processing, and order management.</p>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <h3 align="center">
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Newspaper.png" alt="News" width="20" height="20" />
+          News Aggregator
+        </h3>
+        <p align="center">
+          <a href="https://github.com/siddshukla/news-app" target="_blank">
+            <img src="https://raw.githubusercontent.com/siddshukla/news-app/main/public/app-screenshot.png" width="100%" alt="News App"/>
+          </a>
+          <p align="center">
+            <a href="https://github.com/siddshukla/news-app" target="_blank">
+              <img src="https://img.shields.io/badge/Code-00FFFF?style=for-the-badge&logo=github&logoColor=white"/>
+            </a>
+            <a href="https://news-hub-app.vercel.app" target="_blank">
+              <img src="https://img.shields.io/badge/Live-FF385C?style=for-the-badge&logo=vercel&logoColor=white"/>
+            </a>
+          </p>
+          <p align="center"><strong>React, TailwindCSS, NewsAPI</strong> - News aggregator with personalized feeds, search functionality, and category filtering.</p>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Book.png" alt="Portfolio" width="20" height="20" />
+          Portfolio Website
+        </h3>
+        <p align="center">
+          <a href="https://github.com/siddshukla/portfolio" target="_blank">
+            <img src="https://raw.githubusercontent.com/siddshukla/portfolio/main/public/portfolio-preview.png" width="100%" alt="Portfolio Website"/>
+          </a>
+          <p align="center">
+            <a href="https://github.com/siddshukla/portfolio" target="_blank">
+              <img src="https://img.shields.io/badge/Code-00FFFF?style=for-the-badge&logo=github&logoColor=white"/>
+            </a>
+            <a href="https://portfolio-siddharth-shuklas-projects-71bc8f45.vercel.app/" target="_blank">
+              <img src="https://img.shields.io/badge/Live-FF385C?style=for-the-badge&logo=vercel&logoColor=white"/>
+            </a>
+          </p>
+          <p align="center"><strong>React, Framer Motion, TailwindCSS</strong> - Personal portfolio featuring smooth animations, project showcases, and contact form.</p>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- PROJECT STATISTICS -->
+<div align="center">
+  <details>
+    <summary>
+      <h3>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" alt="More" width="25" height="25" />
+        More Projects
+      </h3>
+    </summary>
+    <div>
+      <table>
+        <tr>
+          <td>
+            <a href="https://github.com/siddshukla/weather-app">
+              <img src="https://img.shields.io/badge/Weather_App-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Weather App" width="200"/>
+            </a>
+          </td>
+          <td>React-based weather forecasting application with geolocation</td>
+        </tr>
+        <tr>
+          <td>
+            <a href="https://github.com/siddshukla/chat-app">
+              <img src="https://img.shields.io/badge/Chat_Application-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Chat App" width="200"/>
+            </a>
+          </td>
+          <td>Real-time chat application using Socket.io and Node.js</td>
+        </tr>
+        <tr>
+          <td>
+            <a href="https://github.com/siddshukla/task-manager">
+              <img src="https://img.shields.io/badge/Task_Manager-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Task Manager" width="200"/>
+            </a>
+          </td>
+          <td>Full-stack task management application with MySQL database</td>
+        </tr>
+      </table>
+    </div>
+  </details>
+</div>
+
+<br>
+
+<!-- PROJECT CONTRIBUTION CHART -->
+<div align="center">
+  <h3>Project Contribution Distribution</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddshukla&layout=donut-vertical&theme=tokyonight&bg_color=00000000&hide_border=true&title_color=00FFFF&text_color=FFFFFF" height="320" />
 </div>
 
 <br>
