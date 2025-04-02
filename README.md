@@ -124,8 +124,3 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </div>
----
-
-![snake gif](https://github.com/siddshukla/siddshukla/blob/output/github-snake-dark.svg)
-
-
