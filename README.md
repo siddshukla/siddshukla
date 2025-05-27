@@ -98,7 +98,7 @@
       </td>
       <td width="50%">
         <h3 align="center">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Portfolio" width="25" height="25" />
+          <img src="https://github.com/siddshukla/SiddharthPortfolio/blob/main/portfolio.jpg" alt="Portfolio" width="25" height="25" />
           Personal Portfolio Website
         </h3>
         <p align="center">
