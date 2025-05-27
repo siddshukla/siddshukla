@@ -1,14 +1,14 @@
 <!-- INTRO BANNER WITH 3D EFFECT -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&text=Siddharth%20Shukla&fontSize=60&fontAlignY=40&desc=Full-Stack%20Developer%20|%20MERN%20Specialist&descSize=20&descAlignY=60&animation=fadeIn" alt="banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&text=Siddharth%20Shukla&fontSize=60&fontAlignY=40&desc=Full-Stack%20Developer%20|%20MERN%20Stack%20Engineer&descSize=20&descAlignY=60&animation=fadeIn" alt="banner" width="100%"/>
 
 <!-- ANIMATED TYPING INTRO -->
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&random=false&width=700&lines=Passionate+Full-Stack+Developer;Building+Scalable+Web+Applications;MERN+Stack+Specialist;Creating+Exceptional+User+Experiences;Transforming+Ideas+into+Digital+Reality;Code+Quality+%26+Performance+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&random=false&width=700&lines=Full-Stack+Web+Developer;MERN+Stack+Specialist;Building+Scalable+Web+Applications;Problem+Solver+%26+Innovation+Driver;Transforming+Ideas+into+Digital+Solutions" alt="Typing SVG" />
   </a>
 </p>
 
-<!-- SOCIAL BADGES -->
+<!-- PROFESSIONAL CONTACT BADGES -->
 <div align="center">
   <a href="https://komarev.com/ghpvc/?username=siddshukla">
     <img src="https://komarev.com/ghpvc/?username=siddshukla&style=for-the-badge&color=6c5ce7" alt="Profile Views" />
@@ -29,35 +29,35 @@
 
 <br>
 
-<!-- ABOUT ME SECTION WITH ANIMATED GIF -->
+<!-- PROFESSIONAL ABOUT ME SECTION -->
 <div>
-  <img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+  <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
   
   <div>
     <h2>
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />
-      About Me
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Developer" width="35" height="35" />
+      Professional Overview
     </h2>
     <ul>
       <li>
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" height="20" />
-        <b>Currently Building:</b> <a href="https://github.com/siddshukla/MajorProject"><b>Wanderlust</b></a> — A comprehensive hotel booking platform with advanced features like real-time availability, secure payments, and review system
+        <strong>Current Focus:</strong> Developing <a href="https://github.com/siddshukla/MajorProject"><b>Wanderlust</b></a> — A comprehensive hotel booking platform using MERN stack
       </li>
       <li>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" alt="Learning" width="20" height="20" />
-        <b>Continuously Learning:</b> Advanced React Patterns, Microservices Architecture, DevOps practices, and Modern Frontend Frameworks
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Learning" width="20" height="20" />
+        <strong>Continuous Learning:</strong> Advanced Database Management, System Design, Cloud Architecture, and Modern Web Technologies
       </li>
       <li>
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="Portfolio" width="20" height="20" />
-        <b>Professional Portfolio:</b> <a href="https://www.siddharthshukla.tech/"><b>siddharthshukla.tech</b></a> — Showcasing production-ready applications and technical expertise
+        <strong>Portfolio:</strong> <a href="https://www.siddharthshukla.tech/"><b>www.siddharthshukla.tech</b></a>
+      </li>
+      <li>
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Work" width="20" height="20" />
+        <strong>Open for Opportunities:</strong> Full-Stack Development Roles, Internships, and Collaborative Projects
       </li>
       <li>
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" alt="Contact" width="20" height="20" />
-        <b>Let's Connect:</b> <a href="mailto:siddsanskshukla@gmail.com"><b>siddsanskshukla@gmail.com</b></a> — Open for collaboration and opportunities
-      </li>
-      <li>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Projects" width="20" height="20" />
-        <b>Focus Areas:</b> Full-Stack Web Development, RESTful APIs, Database Design, UI/UX Implementation, and Performance Optimization
+        <strong>Contact:</strong> <a href="mailto:siddsanskshukla@gmail.com"><b>siddsanskshukla@gmail.com</b></a>
       </li>
     </ul>
   </div>
@@ -65,20 +65,19 @@
 
 <br>
 
-<!-- FEATURED PROJECT SECTION WITH CREATIVE SHOWCASE -->
+<!-- FEATURED PROJECTS SECTION -->
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" />
-  Featured Projects & Technical Implementations
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Projects" width="35" height="35" />
+  Featured Projects
 </h2>
 
-<!-- PROJECT CARDS WITH HOVER EFFECTS -->
 <div align="center">
   <table>
     <tr>
       <td width="50%">
         <h3 align="center">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/House.png" alt="House" width="20" height="20" />
-          Wanderlust
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/House.png" alt="House" width="25" height="25" />
+          Wanderlust - Hotel Booking Platform
         </h3>
         <p align="center">
           <a href="https://github.com/siddshukla/MajorProject" target="_blank">
@@ -86,19 +85,22 @@
           </a>
           <p align="center">
             <a href="https://github.com/siddshukla/MajorProject" target="_blank">
-              <img src="https://img.shields.io/badge/Code-00FFFF?style=for-the-badge&logo=github&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
             </a>
             <a href="https://wanderlust-demo.vercel.app" target="_blank">
-              <img src="https://img.shields.io/badge/Live-FF385C?style=for-the-badge&logo=vercel&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Live_Demo-FF385C?style=for-the-badge&logo=vercel&logoColor=white"/>
             </a>
           </p>
-          <p align="center"><strong>MongoDB • Express.js • React • Node.js</strong><br>Full-featured hotel booking platform with user authentication, property management, advanced search filters, booking system, review & rating functionality, and secure payment integration.</p>
+          <p align="center">
+            <strong>Tech Stack:</strong> MongoDB • Express.js • React.js • Node.js<br>
+            <em>Full-featured hotel booking system with user authentication, property management, reviews, and secure payment integration.</em>
+          </p>
         </p>
       </td>
       <td width="50%">
         <h3 align="center">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Book.png" alt="Portfolio" width="20" height="20" />
-          Portfolio Website
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Portfolio" width="25" height="25" />
+          Personal Portfolio Website
         </h3>
         <p align="center">
           <a href="https://github.com/siddshukla/portfolio" target="_blank">
@@ -106,21 +108,24 @@
           </a>
           <p align="center">
             <a href="https://github.com/siddshukla/portfolio" target="_blank">
-              <img src="https://img.shields.io/badge/Code-00FFFF?style=for-the-badge&logo=github&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
             </a>
-            <a href="https://portfolio-siddharth-shuklas-projects-71bc8f45.vercel.app/" target="_blank">
-              <img src="https://img.shields.io/badge/Live-FF385C?style=for-the-badge&logo=vercel&logoColor=white"/>
+            <a href="https://www.siddharthshukla.tech/" target="_blank">
+              <img src="https://img.shields.io/badge/Live_Demo-FF385C?style=for-the-badge&logo=vercel&logoColor=white"/>
             </a>
           </p>
-          <p align="center"><strong>React • Framer Motion • TailwindCSS • JavaScript</strong><br>Interactive personal portfolio featuring smooth animations, responsive design, project showcases, skills visualization, and integrated contact form with modern UI/UX principles.</p>
+          <p align="center">
+            <strong>Tech Stack:</strong> React.js • Tailwind CSS • Framer Motion<br>
+            <em>Responsive portfolio website featuring smooth animations, project showcases, and professional contact form.</em>
+          </p>
         </p>
       </td>
     </tr>
     <tr>
       <td colspan="2" align="center">
         <h3 align="center">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Writing%20Hand.png" alt="Blog" width="20" height="20" />
-          BlogNova
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Writing%20Hand.png" alt="Blog" width="25" height="25" />
+          BlogNova - Modern Blogging Platform
         </h3>
         <p align="center">
           <a href="https://github.com/siddshukla/BlogNovaSite" target="_blank">
@@ -128,130 +133,163 @@
           </a>
           <p align="center">
             <a href="https://github.com/siddshukla/BlogNovaSite" target="_blank">
-              <img src="https://img.shields.io/badge/Code-00FFFF?style=for-the-badge&logo=github&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
             </a>
             <a href="https://blognova.onrender.com/" target="_blank">
-              <img src="https://img.shields.io/badge/Live-FF385C?style=for-the-badge&logo=vercel&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Live_Demo-FF385C?style=for-the-badge&logo=render&logoColor=white"/>
             </a>
           </p>
-          <p align="center"><strong>Next.js • MongoDB • NextAuth • TailwindCSS</strong><br>Modern blogging platform with rich text editor (Quill.js), user authentication, comment system, category management, search functionality, and fully responsive design with SEO optimization.</p>
+          <p align="center">
+            <strong>Tech Stack:</strong> Node.js • Express.js • MongoDB • HTML/CSS • JavaScript<br>
+            <em>Feature-rich blogging platform with user authentication, content management, commenting system, and responsive design.</em>
+          </p>
         </p>
       </td>
     </tr>
   </table>
 </div>
 
-<!-- PROJECT STATISTICS -->
-<div align="center">
-  <details>
-    <summary>
-      <h3>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Right.png" alt="More" width="25" height="25" />
-        More Projects
-      </h3>
-    </summary>
-    <div>
-      <table>
-        <tr>
-          <td>
-            <a href="https://github.com/siddshukla/weather-app">
-              <img src="https://img.shields.io/badge/Weather_App-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Weather App" width="200"/>
-            </a>
-          </td>
-          <td>React-based weather forecasting application with geolocation</td>
-        </tr>
-        <tr>
-          <td>
-            <a href="https://github.com/siddshukla/chat-app">
-              <img src="https://img.shields.io/badge/Chat_Application-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Chat App" width="200"/>
-            </a>
-          </td>
-          <td>Real-time chat application using Socket.io and Node.js</td>
-        </tr>
-        <tr>
-          <td>
-            <a href="https://github.com/siddshukla/task-manager">
-              <img src="https://img.shields.io/badge/Task_Manager-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Task Manager" width="200"/>
-            </a>
-          </td>
-          <td>Full-stack task management application with MySQL database</td>
-        </tr>
-      </table>
-    </div>
-  </details>
-</div>
-
 <br>
 
-<!-- PROJECT CONTRIBUTION CHART -->
-<div align="center">
-  <h3>Project Contribution Distribution</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddshukla&layout=donut-vertical&theme=tokyonight&bg_color=00000000&hide_border=true&title_color=00FFFF&text_color=FFFFFF" height="320" />
-</div>
-
-<br>
-
-<!-- TECH STACK SECTION WITH GLOW EFFECT -->
+<!-- TECHNICAL SKILLS SECTION -->
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" height="30" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Skills" width="35" height="35" />
   Technical Skills & Expertise
 </h2>
 
 <div align="center">
-  <h3>Core Programming Languages</h3>
+  
+  <!-- Programming Languages -->
+  <h3>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Languages" width="25" height="25" />
+    Programming Languages
+  </h3>
   <p>
-    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
     <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
     <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   </p>
 
-  <!-- FRAMEWORKS -->
-  <h3>Frontend & Backend Frameworks</h3>
-  <p>
-    <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-    <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-    <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
-    <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-    <img src="https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-    <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  </p>
-
-  <!-- DATABASE AND TOOLS -->
-  <h3>Database Technologies & Development Tools</h3>
+  <!-- Database Technologies -->
+  <h3>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/File%20Cabinet.png" alt="Database" width="25" height="25" />
+    Database Technologies
+  </h3>
   <p>
     <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-    <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-    <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-    <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-    <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+    <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  </p>
+
+  <!-- Frameworks & Libraries -->
+  <h3>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Libraries" width="25" height="25" />
+    Frameworks & Libraries
+  </h3>
+  <p>
+    <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+    <img src="https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js" />
   </p>
   
-  <!-- CLOUD & DEPLOYMENT -->
-  <h3>Cloud Platforms & Deployment</h3>
+  <!-- Developer Tools -->
+  <h3>
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Wrench.png" alt="Tools" width="25" height="25" />
+    Developer Tools & Technologies
+  </h3>
   <p>
-    <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-    <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-    <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
-    <img src="https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku" />
+    <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+    <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+    <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+    <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   </p>
 </div>
 
 <br>
 
-<!-- GITHUB STATS WITH CUSTOM THEMES -->
+<!-- ACADEMIC BACKGROUND -->
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="30" height="30" />
-  GitHub Analytics & Performance Metrics
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Education" width="35" height="35" />
+  Academic Foundation
 </h2>
 
-<!-- STATS CARDS WITH MATCHING THEME -->
+<div align="center">
+  <h3>Core Computer Science Coursework</h3>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-Data_Structures-4CAF50?style=for-the-badge&logoColor=white" alt="Data Structures" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-Algorithms-2196F3?style=for-the-badge&logoColor=white" alt="Algorithms" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-Operating_Systems-FF9800?style=for-the-badge&logoColor=white" alt="Operating Systems" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-OOP-9C27B0?style=for-the-badge&logoColor=white" alt="Object-Oriented Programming" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-DBMS-F44336?style=for-the-badge&logoColor=white" alt="Database Management Systems" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/-Computer_Networks-607D8B?style=for-the-badge&logoColor=white" alt="Computer Networks" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<!-- PROFESSIONAL SKILLS -->
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20in%20Business%20Suit%20Levitating.png" alt="Professional" width="35" height="35" />
+  Professional Skills
+</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <h4>
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microphone.png" alt="Presentation" width="20" height="20" />
+          Presentation Skills
+        </h4>
+        <p>Effective communication and project demonstration abilities</p>
+      </td>
+      <td align="center" width="33%">
+        <h4>
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" alt="Debugging" width="20" height="20" />
+          Debugging & Testing
+        </h4>
+        <p>Systematic problem-solving and code optimization</p>
+      </td>
+      <td align="center" width="33%">
+        <h4>
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Eye.png" alt="Attention" width="20" height="20" />
+          Attention to Detail
+        </h4>
+        <p>Quality-focused development and thorough code review</p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<!-- GITHUB ANALYTICS -->
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Analytics" width="35" height="35" />
+  GitHub Analytics
+</h2>
+
 <div align="center">
   <a href="#">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=siddshukla&show_icons=true&theme=tokyonight&bg_color=00000000&hide_border=true&ring_color=00FFFF&icon_color=FF385C&title_color=00FFFF&text_color=FFFFFF" />
@@ -259,7 +297,6 @@
   </a>
 </div>
 
-<!-- STREAK STATS -->
 <div align="center">
   <a href="#">
     <img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=siddshukla&theme=tokyonight&hide_border=true&background=00000000&stroke=00FFFF&ring=00FFFF&fire=FF385C&currStreakNum=FFFFFF&sideNums=00FFFF&currStreakLabel=00FFFF&sideLabels=FFFFFF" />
@@ -268,8 +305,9 @@
 
 <br>
 
-<!-- CONTRIBUTION GRAPH -->
+<!-- CONTRIBUTION ACTIVITY -->
 <div align="center">
+  <h3>Development Activity</h3>
   <a href="#">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddshukla&theme=react-dark&bg_color=00000000&hide_border=true&line=00FFFF&point=FF385C&color=00FFFF" width="100%" />
   </a>
@@ -277,102 +315,47 @@
 
 <br>
 
-<!-- SKILLS PROGRESS BARS -->
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Skills" width="30" height="30" />
-  Professional Skill Proficiency
-</h2>
-
-<div align="center">
-  <p>
-    <img src="https://img.shields.io/badge/Full--Stack%20Development-92%25-00FFFF?style=for-the-badge&labelColor=black" />
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/React%20%26%20Frontend-88%25-61DAFB?style=for-the-badge&labelColor=black" />
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Node.js%20%26%20Backend-85%25-339933?style=for-the-badge&labelColor=black" />
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/Database%20Design%20%26%20Management-82%25-4479A1?style=for-the-badge&labelColor=black" />
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/API%20Development%20%26%20Integration-80%25-FF6B6B?style=for-the-badge&labelColor=black" />
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/UI%2FUX%20Implementation-75%25-FF385C?style=for-the-badge&labelColor=black" />
-  </p>
-</div>
-
-<br>
-
-<!-- SNAKE ANIMATION WITH CUSTOM COLORS -->
-<div align="center">
-  <h2>Contribution Activity</h2>
-  <img src="https://github.com/siddshukla/siddshukla/blob/output/github-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<br>
-
-<!-- SPOTIFY INTEGRATION -->
+<!-- ACHIEVEMENTS -->
 <div align="center">
   <h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Notes.png" alt="Music" width="30" height="30" />
-    Currently Listening To
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Achievements" width="35" height="35" />
+    GitHub Achievements
   </h2>
   <a href="#">
-    <img src="https://novatorem-git-main-siddshukla.vercel.app/api/spotify" alt="Spotify Now Playing" width="456" />
+    <img src="https://github-profile-trophy.vercel.app/?username=siddshukla&theme=nord&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
   </a>
 </div>
 
 <br>
 
-<!-- QUOTE CARD -->
+<!-- PROFESSIONAL CALL TO ACTION -->
 <div align="center">
   <h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Quote" width="30" height="30" />
-    Developer Quote
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Connect" width="35" height="35" />
+    Let's Connect & Collaborate
   </h2>
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" width="500" />
-</div>
-
-<br>
-
-<!-- PORTFOLIO CALL TO ACTION -->
-<div align="center">
-  <h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="Pointing" width="30" height="30" />
-    Professional Opportunities & Collaboration
-  </h2>
+  <p><em>Open to full-stack development opportunities, internships, and innovative project collaborations</em></p>
+  
   <a href="https://www.siddharthshukla.tech/">
-    <img src="https://img.shields.io/badge/Check_Out_My_Portfolio-FF385C?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="40" width="300" />
+    <img src="https://img.shields.io/badge/View_Portfolio-FF385C?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="45" width="220" />
   </a>
   <br><br>
   <a href="mailto:siddsanskshukla@gmail.com">
-    <img src="https://img.shields.io/badge/Available_for_Opportunities-00FFFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Opportunities" height="40" width="300" />
+    <img src="https://img.shields.io/badge/Contact_Me-00FFFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" height="45" width="220" />
+  </a>
+  <br><br>
+  <a href="https://linkedin.com/in/siddharth-shukla-811302272">
+    <img src="https://img.shields.io/badge/LinkedIn_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="45" width="220" />
   </a>
 </div>
 
 <br>
 
-<!-- TROPHY SECTION -->
+<!-- PROFESSIONAL FOOTER -->
 <div align="center">
-  <h2>
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="30" height="30" />
-    GitHub Trophies
-  </h2>
-  <a href="#">
-    <img src="https://github-profile-trophy.vercel.app/?username=siddshukla&theme=nord&no-frame=true&no-bg=true&column=7" alt="siddshukla" />
-  </a>
-</div>
-
-<br>
-
-<!-- SUPPORT CALL -->
-<div align="center">
-  <p>⭐ <b>If you find my work valuable, please consider starring my repositories!</b></p>
-  <p>🚀 <b>Follow me to stay updated with my latest projects and contributions!</b></p>
-  <p>💼 <b>Open to Full-Stack Developer positions and exciting project collaborations!</b></p>
+  <p><strong>⭐ Star my repositories if you find them valuable!</strong></p>
+  <p><strong>🤝 Follow for more innovative projects and collaborations!</strong></p>
+  <p><em>"Passionate about creating efficient, scalable, and user-centric web solutions"</em></p>
 </div>
 
 <!-- FOOTER WITH WAVE ANIMATION -->
