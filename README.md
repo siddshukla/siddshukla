@@ -4,7 +4,7 @@
 <!-- ANIMATED TYPING INTRO -->
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&random=false&width=600&lines=Building+Modern+Web+Solutions;Creating+Intuitive+User+Experiences;Transforming+Ideas+into+Reality;Crafting+Exceptional+Digital+Experiences;Bringing+Innovative+Concepts+to+Life" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&random=false&width=700&lines=Passionate+Full-Stack+Developer;Building+Scalable+Web+Applications;MERN+Stack+Specialist;Creating+Exceptional+User+Experiences;Transforming+Ideas+into+Digital+Reality;Code+Quality+%26+Performance+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
@@ -22,7 +22,7 @@
   <a href="https://linkedin.com/in/siddharth-shukla-811302272">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://portfolio-siddharth-shuklas-projects-71bc8f45.vercel.app/">
+  <a href="https://www.siddharthshukla.tech/">
     <img src="https://img.shields.io/badge/Portfolio-FF385C?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </div>
@@ -41,23 +41,23 @@
     <ul>
       <li>
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="20" height="20" />
-        Currently working on <a href="https://github.com/siddshukla/MajorProject"><b>Wanderlust</b></a> — A hotel booking web app similar to Airbnb
+        <b>Currently Building:</b> <a href="https://github.com/siddshukla/MajorProject"><b>Wanderlust</b></a> — A comprehensive hotel booking platform with advanced features like real-time availability, secure payments, and review system
       </li>
       <li>
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bookmark%20Tabs.png" alt="Learning" width="20" height="20" />
-        Learning <b>Advanced Web Development Techniques</b>, <b>Scalable Web Architecture</b> & <b>Cloud Computing</b>
+        <b>Continuously Learning:</b> Advanced React Patterns, Microservices Architecture, DevOps practices, and Modern Frontend Frameworks
       </li>
       <li>
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="Portfolio" width="20" height="20" />
-        View my portfolio: <a href="https://portfolio-siddharth-shuklas-projects-71bc8f45.vercel.app/"><b>siddharthshukla.dev</b></a>
+        <b>Professional Portfolio:</b> <a href="https://www.siddharthshukla.tech/"><b>siddharthshukla.tech</b></a> — Showcasing production-ready applications and technical expertise
       </li>
       <li>
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Envelope.png" alt="Contact" width="20" height="20" />
-        Contact me: <a href="mailto:siddsanskshukla@gmail.com"><b>siddsanskshukla@gmail.com</b></a>
+        <b>Let's Connect:</b> <a href="mailto:siddsanskshukla@gmail.com"><b>siddsanskshukla@gmail.com</b></a> — Open for collaboration and opportunities
       </li>
       <li>
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Projects" width="20" height="20" />
-        Open to collaborating on <b>Innovative Web Projects</b> & <b>Open Source Contributions</b>
+        <b>Focus Areas:</b> Full-Stack Web Development, RESTful APIs, Database Design, UI/UX Implementation, and Performance Optimization
       </li>
     </ul>
   </div>
@@ -68,7 +68,7 @@
 <!-- FEATURED PROJECT SECTION WITH CREATIVE SHOWCASE -->
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" height="30" />
-  Featured Projects
+  Featured Projects & Technical Implementations
 </h2>
 
 <!-- PROJECT CARDS WITH HOVER EFFECTS -->
@@ -92,7 +92,7 @@
               <img src="https://img.shields.io/badge/Live-FF385C?style=for-the-badge&logo=vercel&logoColor=white"/>
             </a>
           </p>
-          <p align="center"><strong>MongoDB, Express, React, Node.js</strong> - A complete hotel booking platform with user authentication, property listings, reviews, and booking management.</p>
+          <p align="center"><strong>MongoDB • Express.js • React • Node.js</strong><br>Full-featured hotel booking platform with user authentication, property management, advanced search filters, booking system, review & rating functionality, and secure payment integration.</p>
         </p>
       </td>
       <td width="50%">
@@ -112,7 +112,7 @@
               <img src="https://img.shields.io/badge/Live-FF385C?style=for-the-badge&logo=vercel&logoColor=white"/>
             </a>
           </p>
-          <p align="center"><strong>React, Framer Motion, TailwindCSS</strong> - Personal portfolio featuring smooth animations, project showcases, and contact form.</p>
+          <p align="center"><strong>React • Framer Motion • TailwindCSS • JavaScript</strong><br>Interactive personal portfolio featuring smooth animations, responsive design, project showcases, skills visualization, and integrated contact form with modern UI/UX principles.</p>
         </p>
       </td>
     </tr>
@@ -123,18 +123,18 @@
           BlogNova
         </h3>
         <p align="center">
-          <a href="https://github.com/siddshukla/blognova" target="_blank">
-            <img src="https://raw.githubusercontent.com/siddshukla/blognova/main/public/blognova-preview.png" width="70%" alt="BlogNova Project"/>
+          <a href="https://github.com/siddshukla/BlogNovaSite" target="_blank">
+            <img src="https://raw.githubusercontent.com/siddshukla/BlogNovaSite/main/public/blognova-preview.png" width="70%" alt="BlogNova Project"/>
           </a>
           <p align="center">
-            <a href="https://github.com/siddshukla/blognova" target="_blank">
+            <a href="https://github.com/siddshukla/BlogNovaSite" target="_blank">
               <img src="https://img.shields.io/badge/Code-00FFFF?style=for-the-badge&logo=github&logoColor=white"/>
             </a>
-            <a href="https://blognova-demo.vercel.app" target="_blank">
+            <a href="https://blognova.onrender.com/" target="_blank">
               <img src="https://img.shields.io/badge/Live-FF385C?style=for-the-badge&logo=vercel&logoColor=white"/>
             </a>
           </p>
-          <p align="center"><strong>Next.js, MongoDB, NextAuth, TailwindCSS</strong> - Modern blogging platform with rich text editor, user authentication, comment system, and responsive design.</p>
+          <p align="center"><strong>Next.js • MongoDB • NextAuth • TailwindCSS</strong><br>Modern blogging platform with rich text editor (Quill.js), user authentication, comment system, category management, search functionality, and fully responsive design with SEO optimization.</p>
         </p>
       </td>
     </tr>
@@ -194,23 +194,22 @@
 <!-- TECH STACK SECTION WITH GLOW EFFECT -->
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" height="30" />
-  Tech Stack
+  Technical Skills & Expertise
 </h2>
 
 <div align="center">
-  <!-- PROGRAMMING LANGUAGES -->
-  <h3>Languages</h3>
+  <h3>Core Programming Languages</h3>
   <p>
-    <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-    <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
     <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
     <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+    <img src="https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+    <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   </p>
 
   <!-- FRAMEWORKS -->
-  <h3>Frameworks & Libraries</h3>
+  <h3>Frontend & Backend Frameworks</h3>
   <p>
     <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
     <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -222,7 +221,7 @@
   </p>
 
   <!-- DATABASE AND TOOLS -->
-  <h3>Database & Tools</h3>
+  <h3>Database Technologies & Development Tools</h3>
   <p>
     <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -235,7 +234,7 @@
   </p>
   
   <!-- CLOUD & DEPLOYMENT -->
-  <h3>Cloud & Deployment</h3>
+  <h3>Cloud Platforms & Deployment</h3>
   <p>
     <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
     <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
@@ -249,7 +248,7 @@
 <!-- GITHUB STATS WITH CUSTOM THEMES -->
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Stats" width="30" height="30" />
-  GitHub Stats
+  GitHub Analytics & Performance Metrics
 </h2>
 
 <!-- STATS CARDS WITH MATCHING THEME -->
@@ -281,24 +280,27 @@
 <!-- SKILLS PROGRESS BARS -->
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Skills" width="30" height="30" />
-  Skills Proficiency
+  Professional Skill Proficiency
 </h2>
 
 <div align="center">
   <p>
-    <img src="https://img.shields.io/badge/Web%20Development-90%25-00FFFF?style=for-the-badge&labelColor=black" />
+    <img src="https://img.shields.io/badge/Full--Stack%20Development-92%25-00FFFF?style=for-the-badge&labelColor=black" />
   </p>
   <p>
-    <img src="https://img.shields.io/badge/React-85%25-61DAFB?style=for-the-badge&labelColor=black" />
+    <img src="https://img.shields.io/badge/React%20%26%20Frontend-88%25-61DAFB?style=for-the-badge&labelColor=black" />
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Node.js-80%25-339933?style=for-the-badge&labelColor=black" />
+    <img src="https://img.shields.io/badge/Node.js%20%26%20Backend-85%25-339933?style=for-the-badge&labelColor=black" />
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Database%20Management-75%25-4479A1?style=for-the-badge&labelColor=black" />
+    <img src="https://img.shields.io/badge/Database%20Design%20%26%20Management-82%25-4479A1?style=for-the-badge&labelColor=black" />
   </p>
   <p>
-    <img src="https://img.shields.io/badge/UI%2FUX%20Design-70%25-FF385C?style=for-the-badge&labelColor=black" />
+    <img src="https://img.shields.io/badge/API%20Development%20%26%20Integration-80%25-FF6B6B?style=for-the-badge&labelColor=black" />
+  </p>
+  <p>
+    <img src="https://img.shields.io/badge/UI%2FUX%20Implementation-75%25-FF385C?style=for-the-badge&labelColor=black" />
   </p>
 </div>
 
@@ -340,14 +342,14 @@
 <div align="center">
   <h2>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Right.png" alt="Pointing" width="30" height="30" />
-    Let's Connect!
+    Professional Opportunities & Collaboration
   </h2>
-  <a href="https://portfolio-siddharth-shuklas-projects-71bc8f45.vercel.app/">
+  <a href="https://www.siddharthshukla.tech/">
     <img src="https://img.shields.io/badge/Check_Out_My_Portfolio-FF385C?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" height="40" width="300" />
   </a>
   <br><br>
   <a href="mailto:siddsanskshukla@gmail.com">
-    <img src="https://img.shields.io/badge/Contact_For_Freelance_Work-00FFFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Freelance" height="40" width="300" />
+    <img src="https://img.shields.io/badge/Available_for_Opportunities-00FFFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Opportunities" height="40" width="300" />
   </a>
 </div>
 
@@ -368,8 +370,9 @@
 
 <!-- SUPPORT CALL -->
 <div align="center">
-  <p>⭐ If you like my projects, please consider giving them a star!</p>
-  <p>🔥 Follow me for more awesome projects!</p>
+  <p>⭐ <b>If you find my work valuable, please consider starring my repositories!</b></p>
+  <p>🚀 <b>Follow me to stay updated with my latest projects and contributions!</b></p>
+  <p>💼 <b>Open to Full-Stack Developer positions and exciting project collaborations!</b></p>
 </div>
 
 <!-- FOOTER WITH WAVE ANIMATION -->
