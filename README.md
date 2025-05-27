@@ -98,7 +98,7 @@
       </td>
       <td width="50%">
         <h3 align="center">
-          <img src="https://github.com/siddshukla/SiddharthPortfolio/blob/main/portfolio.jpg" alt="Portfolio" width="25" height="25" />
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="Portfolio" width="25" height="25" />
           Personal Portfolio Website
         </h3>
         <p align="center">
@@ -123,7 +123,7 @@
     <tr>
       <td colspan="2" align="center">
         <h3 align="center">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Writing%20Hand.png" alt="Blog" width="25" height="25" />
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Newspaper.png" alt="Blog" width="25" height="25" />
           BlogNova - Modern Blogging Platform
         </h3>
         <p align="center">
@@ -249,7 +249,7 @@
 
 <!-- PROFESSIONAL SKILLS -->
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20in%20Business%20Suit%20Levitating.png" alt="Professional" width="35" height="35" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Professional" width="35" height="35" />
   Professional Skills
 </h2>
 
