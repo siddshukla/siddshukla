@@ -103,7 +103,7 @@
         </h3>
         <p align="center">
           <a href="https://github.com/siddshukla/portfolio" target="_blank">
-            <img src="https://raw.githubusercontent.com/siddshukla/portfolio/main/public/portfolio-preview.png" width="100%" alt="Portfolio Website"/>
+            <img src="https://github.com/siddshukla/SiddharthPortfolio/blob/main/portfolio.jpg" width="100%" alt="Portfolio Website"/>
           </a>
           <p align="center">
             <a href="https://github.com/siddshukla/portfolio" target="_blank">
