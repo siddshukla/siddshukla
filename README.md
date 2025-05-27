@@ -80,7 +80,7 @@
         </h3>
         <p align="center">
           <a href="https://github.com/siddshukla/MajorProject" target="_blank">
-            <img src="https://raw.githubusercontent.com/siddshukla/MajorProject/main/frontend/public/project-banner.png" width="100%" alt="Wanderlust Project"/>
+            <img src="https://github.com/siddshukla/SiddharthPortfolio/blob/main/src/assets/project2.png" width="100%" alt="Wanderlust Project"/>
           </a>
           <p align="center">
             <a href="https://github.com/siddshukla/MajorProject" target="_blank">
@@ -128,7 +128,7 @@
         </h3>
         <p align="center">
           <a href="https://github.com/siddshukla/BlogNovaSite" target="_blank">
-            <img src="https://raw.githubusercontent.com/siddshukla/BlogNovaSite/main/public/blognova-preview.png" width="70%" alt="BlogNova Project"/>
+            <img src="https://github.com/siddshukla/BlogNovaSite/blob/main/blognova.jpg" width="70%" alt="BlogNova Project"/>
           </a>
           <p align="center">
             <a href="https://github.com/siddshukla/BlogNovaSite" target="_blank">
