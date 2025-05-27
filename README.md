@@ -48,7 +48,6 @@
         <strong>Continuous Learning:</strong> Advanced Database Management, System Design, Cloud Architecture, and Modern Web Technologies
       </li>
       <li>
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="Portfolio" width="20" height="20" />
         <strong>Portfolio:</strong> <a href="https://www.siddharthshukla.tech/"><b>www.siddharthshukla.tech</b></a>
       </li>
       <li>
