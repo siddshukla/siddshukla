@@ -97,48 +97,6 @@
       </td>
       <td width="50%">
         <h3 align="center">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shopping%20Cart.png" alt="Cart" width="20" height="20" />
-          E-Commerce Platform
-        </h3>
-        <p align="center">
-          <a href="https://github.com/siddshukla/ecommerce-app" target="_blank">
-            <img src="https://raw.githubusercontent.com/siddshukla/ecommerce-app/main/public/project-thumbnail.png" width="100%" alt="E-Commerce Project"/>
-          </a>
-          <p align="center">
-            <a href="https://github.com/siddshukla/ecommerce-app" target="_blank">
-              <img src="https://img.shields.io/badge/Code-00FFFF?style=for-the-badge&logo=github&logoColor=white"/>
-            </a>
-            <a href="https://mern-shop-demo.vercel.app" target="_blank">
-              <img src="https://img.shields.io/badge/Live-FF385C?style=for-the-badge&logo=vercel&logoColor=white"/>
-            </a>
-          </p>
-          <p align="center"><strong>Next.js, Redux, MongoDB, Stripe</strong> - Full-featured e-commerce solution with product catalog, shopping cart, payment processing, and order management.</p>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Newspaper.png" alt="News" width="20" height="20" />
-          News Aggregator
-        </h3>
-        <p align="center">
-          <a href="https://github.com/siddshukla/news-app" target="_blank">
-            <img src="https://raw.githubusercontent.com/siddshukla/news-app/main/public/app-screenshot.png" width="100%" alt="News App"/>
-          </a>
-          <p align="center">
-            <a href="https://github.com/siddshukla/news-app" target="_blank">
-              <img src="https://img.shields.io/badge/Code-00FFFF?style=for-the-badge&logo=github&logoColor=white"/>
-            </a>
-            <a href="https://news-hub-app.vercel.app" target="_blank">
-              <img src="https://img.shields.io/badge/Live-FF385C?style=for-the-badge&logo=vercel&logoColor=white"/>
-            </a>
-          </p>
-          <p align="center"><strong>React, TailwindCSS, NewsAPI</strong> - News aggregator with personalized feeds, search functionality, and category filtering.</p>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">
           <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Book.png" alt="Portfolio" width="20" height="20" />
           Portfolio Website
         </h3>
@@ -155,6 +113,28 @@
             </a>
           </p>
           <p align="center"><strong>React, Framer Motion, TailwindCSS</strong> - Personal portfolio featuring smooth animations, project showcases, and contact form.</p>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <h3 align="center">
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Writing%20Hand.png" alt="Blog" width="20" height="20" />
+          BlogNova
+        </h3>
+        <p align="center">
+          <a href="https://github.com/siddshukla/blognova" target="_blank">
+            <img src="https://raw.githubusercontent.com/siddshukla/blognova/main/public/blognova-preview.png" width="70%" alt="BlogNova Project"/>
+          </a>
+          <p align="center">
+            <a href="https://github.com/siddshukla/blognova" target="_blank">
+              <img src="https://img.shields.io/badge/Code-00FFFF?style=for-the-badge&logo=github&logoColor=white"/>
+            </a>
+            <a href="https://blognova-demo.vercel.app" target="_blank">
+              <img src="https://img.shields.io/badge/Live-FF385C?style=for-the-badge&logo=vercel&logoColor=white"/>
+            </a>
+          </p>
+          <p align="center"><strong>Next.js, MongoDB, NextAuth, TailwindCSS</strong> - Modern blogging platform with rich text editor, user authentication, comment system, and responsive design.</p>
         </p>
       </td>
     </tr>
