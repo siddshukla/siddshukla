@@ -1,7 +1,23 @@
+<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
+<!-- ║   SIDDHARTH SHUKLA · PROFILE README · SINGLE-FILE EDITION        ║ -->
+<!-- ║   Palette: #020617 · #0B1020 · #1E3A8A · #22D3EE · #8B5CF6       ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
+
+<!-- ═══════════════════════ HERO ═══════════════════════ -->
 <div align="center">
-  <img src="assets/hero.svg" width="100%" alt="Siddharth Shukla — Full-Stack Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:020617,45:1E3A8A,100:22D3EE&text=Siddharth%20Shukla&fontColor=F8FAFC&fontSize=64&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20MERN%20Stack%20Engineer&descColor=E2E8F0&descSize=20&descAlignY=57&animation=twinkling" width="100%" alt="Siddharth Shukla" />
 </div>
 
+<!-- ═══════════════════════ TYPING LINE ═══════════════════════ -->
+<div align="center">
+  <a href="https://www.siddharthshukla.tech/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=22D3EE&background=0B1020&center=true&vCenter=true&repeat=true&width=820&height=64&lines=Designing+and+engineering+scalable+web+products;From+database+to+pixel+%E2%80%94+end+to+end;MongoDB+%C2%B7+Express+%C2%B7+React+%C2%B7+Node.js;Open+to+full-stack+roles+and+internships" alt="Typing animation" />
+  </a>
+</div>
+
+<br>
+
+<!-- ═══════════════════════ CONTACT BAR ═══════════════════════ -->
 <div align="center">
   <a href="https://www.siddharthshukla.tech/"><img src="https://img.shields.io/badge/PORTFOLIO-0B1020?style=for-the-badge&logo=vercel&logoColor=22D3EE" alt="Portfolio" /></a>
   <a href="https://linkedin.com/in/siddharth-shukla-811302272"><img src="https://img.shields.io/badge/LINKEDIN-0B1020?style=for-the-badge&logo=linkedin&logoColor=22D3EE" alt="LinkedIn" /></a>
@@ -11,84 +27,209 @@
 
 <br>
 
-<img src="assets/h-about.svg" width="100%" alt="About" />
-<br><br>
-<img src="assets/about.svg" width="100%" alt="About Siddharth" />
-
-<br><br>
-
-<img src="assets/h-projects.svg" width="100%" alt="Projects" />
-<br><br>
-
-<table>
+<!-- ═══════════════════════ AT A GLANCE ═══════════════════════ -->
+<table align="center" width="100%">
   <tr>
-    <td width="46%" valign="middle"><a href="https://github.com/siddshukla/MajorProject"><img src="https://github.com/siddshukla/SiddharthPortfolio/blob/main/src/assets/project2.png?raw=true" width="100%" alt="Wanderlust screenshot" /></a></td>
-    <td width="54%" valign="middle" align="center">
-      <a href="https://github.com/siddshukla/MajorProject"><img src="assets/p-wanderlust.svg" width="100%" alt="Wanderlust" /></a><br>
-      <a href="https://wanderlust-demo.vercel.app"><img src="https://img.shields.io/badge/LIVE_DEMO-22D3EE?style=for-the-badge&logo=vercel&logoColor=0B1020" /></a>
-      <a href="https://github.com/siddshukla/MajorProject"><img src="https://img.shields.io/badge/SOURCE-6366F1?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
+    <td width="33%" align="center" valign="top">
+      <sub><b>CURRENTLY BUILDING</b></sub><br><br>
+      <a href="https://github.com/siddshukla/MajorProject"><b>Wanderlust</b></a><br>
+      <sub>Full-stack hotel booking platform</sub>
     </td>
-  </tr>
-  <tr>
-    <td width="54%" valign="middle" align="center">
-      <a href="https://github.com/siddshukla/BlogNovaSite"><img src="assets/p-blognova.svg" width="100%" alt="BlogNova" /></a><br>
-      <a href="https://blognova.onrender.com/"><img src="https://img.shields.io/badge/LIVE_DEMO-22D3EE?style=for-the-badge&logo=render&logoColor=0B1020" /></a>
-      <a href="https://github.com/siddshukla/BlogNovaSite"><img src="https://img.shields.io/badge/SOURCE-6366F1?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
+    <td width="33%" align="center" valign="top">
+      <sub><b>CURRENTLY LEARNING</b></sub><br><br>
+      <b>System Design &amp; Cloud</b><br>
+      <sub>Advanced DBMS · Architecture</sub>
     </td>
-    <td width="46%" valign="middle"><a href="https://github.com/siddshukla/BlogNovaSite"><img src="https://github.com/siddshukla/BlogNovaSite/blob/main/blognova.jpg?raw=true" width="100%" alt="BlogNova screenshot" /></a></td>
-  </tr>
-  <tr>
-    <td width="46%" valign="middle"><a href="https://github.com/siddshukla/portfolio"><img src="https://github.com/siddshukla/SiddharthPortfolio/blob/main/portfolio.jpg?raw=true" width="100%" alt="Portfolio screenshot" /></a></td>
-    <td width="54%" valign="middle" align="center">
-      <a href="https://github.com/siddshukla/portfolio"><img src="assets/p-portfolio.svg" width="100%" alt="Portfolio" /></a><br>
-      <a href="https://www.siddharthshukla.tech/"><img src="https://img.shields.io/badge/LIVE_DEMO-22D3EE?style=for-the-badge&logo=vercel&logoColor=0B1020" /></a>
-      <a href="https://github.com/siddshukla/portfolio"><img src="https://img.shields.io/badge/SOURCE-6366F1?style=for-the-badge&logo=github&logoColor=FFFFFF" /></a>
+    <td width="33%" align="center" valign="top">
+      <sub><b>AVAILABILITY</b></sub><br><br>
+      <b>Open to work</b><br>
+      <sub>Full-stack roles · Internships · Collabs</sub>
     </td>
   </tr>
 </table>
 
 <br>
 
-<img src="assets/h-stack.svg" width="100%" alt="Tech stack" />
-<br><br>
-<img src="assets/stack.svg" width="100%" alt="Technologies" />
+<!-- ═══════════════════════ 01 · ABOUT ═══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=64&color=0:0B1020,100:1E3A8A&text=01%20%C2%B7%20ABOUT&fontColor=F8FAFC&fontSize=24&fontAlign=14&fontAlignY=52&stroke=22D3EE&strokeWidth=1" width="100%" alt="About" />
+
+```ts
+// siddharth.config.ts
+const developer = {
+  name:       "Siddharth Shukla",
+  role:       "Full-Stack Developer",
+  stack:      ["MongoDB", "Express", "React", "Node.js"],
+  building:   "Wanderlust — hotel booking platform",
+  learning:   ["System Design", "Cloud Architecture", "Advanced DBMS"],
+  principles: ["Ship with quality", "Obsess over details", "Keep learning"],
+  openToWork: true,
+  contact:    "siddsanskshukla@gmail.com",
+};
+```
+
+<br>
+
+<!-- ═══════════════════════ 02 · PROJECTS ═══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=64&color=0:0B1020,100:1E3A8A&text=02%20%C2%B7%20FEATURED%20PROJECTS&fontColor=F8FAFC&fontSize=24&fontAlign=14&fontAlignY=52&stroke=22D3EE&strokeWidth=1" width="100%" alt="Projects" />
+
+<br>
+
+<table>
+  <!-- ── PROJECT 01 ── -->
+  <tr>
+    <td width="48%" valign="middle">
+      <a href="https://github.com/siddshukla/MajorProject">
+        <img src="https://github.com/siddshukla/SiddharthPortfolio/blob/main/src/assets/project2.png?raw=true" width="100%" alt="Wanderlust" />
+      </a>
+    </td>
+    <td width="52%" valign="middle">
+      <img src="https://img.shields.io/badge/01-FULL--STACK-22D3EE?style=flat-square&labelColor=0B1020" /><br>
+      <h2>Wanderlust</h2>
+      <p>A complete hotel booking platform with secure authentication, property management, reviews and payment integration.</p>
+      <img src="https://img.shields.io/badge/MongoDB-0B1020?style=flat-square&logo=mongodb&logoColor=47A248" />
+      <img src="https://img.shields.io/badge/Express-0B1020?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-0B1020?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Node.js-0B1020?style=flat-square&logo=nodedotjs&logoColor=339933" />
+      <br><br>
+      <a href="https://wanderlust-demo.vercel.app"><img src="https://img.shields.io/badge/LIVE_DEMO-22D3EE?style=for-the-badge&logo=vercel&logoColor=0B1020" /></a>
+      <a href="https://github.com/siddshukla/MajorProject"><img src="https://img.shields.io/badge/SOURCE-6366F1?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+  </tr>
+  <!-- ── PROJECT 02 ── -->
+  <tr>
+    <td width="52%" valign="middle">
+      <img src="https://img.shields.io/badge/02-CONTENT_PLATFORM-22D3EE?style=flat-square&labelColor=0B1020" /><br>
+      <h2>BlogNova</h2>
+      <p>A modern blogging platform with user accounts, content management, a commenting system and a fully responsive interface.</p>
+      <img src="https://img.shields.io/badge/Node.js-0B1020?style=flat-square&logo=nodedotjs&logoColor=339933" />
+      <img src="https://img.shields.io/badge/Express-0B1020?style=flat-square&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-0B1020?style=flat-square&logo=mongodb&logoColor=47A248" />
+      <img src="https://img.shields.io/badge/JavaScript-0B1020?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+      <br><br>
+      <a href="https://blognova.onrender.com/"><img src="https://img.shields.io/badge/LIVE_DEMO-22D3EE?style=for-the-badge&logo=render&logoColor=0B1020" /></a>
+      <a href="https://github.com/siddshukla/BlogNovaSite"><img src="https://img.shields.io/badge/SOURCE-6366F1?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+    <td width="48%" valign="middle">
+      <a href="https://github.com/siddshukla/BlogNovaSite">
+        <img src="https://github.com/siddshukla/BlogNovaSite/blob/main/blognova.jpg?raw=true" width="100%" alt="BlogNova" />
+      </a>
+    </td>
+  </tr>
+  <!-- ── PROJECT 03 ── -->
+  <tr>
+    <td width="48%" valign="middle">
+      <a href="https://github.com/siddshukla/portfolio">
+        <img src="https://github.com/siddshukla/SiddharthPortfolio/blob/main/portfolio.jpg?raw=true" width="100%" alt="Portfolio" />
+      </a>
+    </td>
+    <td width="52%" valign="middle">
+      <img src="https://img.shields.io/badge/03-FRONT--END-22D3EE?style=flat-square&labelColor=0B1020" /><br>
+      <h2>Personal Portfolio</h2>
+      <p>A responsive portfolio with fluid motion design, project showcases and a polished contact experience.</p>
+      <img src="https://img.shields.io/badge/React-0B1020?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-0B1020?style=flat-square&logo=tailwindcss&logoColor=38BDF8" />
+      <img src="https://img.shields.io/badge/Framer_Motion-0B1020?style=flat-square&logo=framer&logoColor=white" />
+      <br><br>
+      <a href="https://www.siddharthshukla.tech/"><img src="https://img.shields.io/badge/LIVE_DEMO-22D3EE?style=for-the-badge&logo=vercel&logoColor=0B1020" /></a>
+      <a href="https://github.com/siddshukla/portfolio"><img src="https://img.shields.io/badge/SOURCE-6366F1?style=for-the-badge&logo=github&logoColor=white" /></a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- ═══════════════════════ 03 · TECH STACK ═══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=64&color=0:0B1020,100:1E3A8A&text=03%20%C2%B7%20TECH%20STACK&fontColor=F8FAFC&fontSize=24&fontAlign=14&fontAlignY=52&stroke=22D3EE&strokeWidth=1" width="100%" alt="Tech stack" />
+
+<br>
+
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="25%" valign="top">
+      <sub><b>LANGUAGES</b></sub><br><br>
+      <img src="https://skillicons.dev/icons?i=java,c,js,html,css&theme=dark&perline=3" alt="Languages" />
+    </td>
+    <td align="center" width="25%" valign="top">
+      <sub><b>FRAMEWORKS</b></sub><br><br>
+      <img src="https://skillicons.dev/icons?i=react,nodejs,express,tailwind,bootstrap&theme=dark&perline=3" alt="Frameworks" />
+    </td>
+    <td align="center" width="25%" valign="top">
+      <sub><b>DATABASES</b></sub><br><br>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark&perline=3" alt="Databases" />
+    </td>
+    <td align="center" width="25%" valign="top">
+      <sub><b>TOOLS</b></sub><br><br>
+      <img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark&perline=3" alt="Tools" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <sub><b>COMPUTER SCIENCE FOUNDATIONS</b></sub><br><br>
+      <img src="https://img.shields.io/badge/Data_Structures-111833?style=flat-square" />
+      <img src="https://img.shields.io/badge/Algorithms-111833?style=flat-square" />
+      <img src="https://img.shields.io/badge/Operating_Systems-111833?style=flat-square" />
+      <img src="https://img.shields.io/badge/OOP-111833?style=flat-square" />
+      <img src="https://img.shields.io/badge/DBMS-111833?style=flat-square" />
+      <img src="https://img.shields.io/badge/Computer_Networks-111833?style=flat-square" />
+    </td>
+    <td width="50%" valign="top">
+      <sub><b>ENGINEERING PRACTICE</b></sub><br><br>
+      <img src="https://img.shields.io/badge/Debugging_%26_Testing-111833?style=flat-square" />
+      <img src="https://img.shields.io/badge/Code_Optimization-111833?style=flat-square" />
+      <img src="https://img.shields.io/badge/Code_Review-111833?style=flat-square" />
+      <img src="https://img.shields.io/badge/Clear_Communication-111833?style=flat-square" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<!-- ═══════════════════════ 04 · ACTIVITY ═══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=64&color=0:0B1020,100:1E3A8A&text=04%20%C2%B7%20GITHUB%20ACTIVITY&fontColor=F8FAFC&fontSize=24&fontAlign=14&fontAlignY=52&stroke=22D3EE&strokeWidth=1" width="100%" alt="Activity" />
+
+<br>
 
 <div align="center">
-<br>
-<img src="https://img.shields.io/badge/Data_Structures-111833?style=flat-square&labelColor=111833&color=111833" /> <img src="https://img.shields.io/badge/Algorithms-111833?style=flat-square&labelColor=111833&color=111833" /> <img src="https://img.shields.io/badge/Operating_Systems-111833?style=flat-square&labelColor=111833&color=111833" /> <img src="https://img.shields.io/badge/OOP-111833?style=flat-square&labelColor=111833&color=111833" /> <img src="https://img.shields.io/badge/DBMS-111833?style=flat-square&labelColor=111833&color=111833" /> <img src="https://img.shields.io/badge/Computer_Networks-111833?style=flat-square&labelColor=111833&color=111833" />
+
+  <!-- Stats + languages -->
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=siddshukla&show_icons=true&border_color=1E3A8A&border_radius=14&bg_color=0B1020&title_color=22D3EE&icon_color=8B5CF6&text_color=CBD5E1" alt="GitHub stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddshukla&layout=compact&border_color=1E3A8A&border_radius=14&bg_color=0B1020&title_color=22D3EE&text_color=CBD5E1" alt="Top languages" />
+
+  <br><br>
+
+  <!-- Streak -->
+  <img width="100%" src="https://streak-stats.demolab.com/?user=siddshukla&border_radius=14&background=0B1020&stroke=1E3A8A&ring=22D3EE&fire=8B5CF6&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B" alt="Streak" />
+
+  <br><br>
+
+  <!-- Animated 3D contribution bars (no GitHub Action needed) -->
+  <img width="100%" src="https://ssr-contributions-svg.vercel.app/_/siddshukla?chart=3dbar&format=svg&weeks=30&flatten=1&animation=wave&theme=blue" alt="3D contribution chart" />
+
+  <br><br>
+
+  <!-- Contribution graph -->
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=siddshukla&bg_color=0B1020&color=94A3B8&line=22D3EE&point=F8FAFC&area=true&area_color=6366F1&hide_border=true&radius=14" alt="Contribution graph" />
+
 </div>
 
 <br>
 
-<img src="assets/h-activity.svg" width="100%" alt="Activity" />
-<br><br>
-
-<div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=siddshukla&show_icons=true&border_color=1E2A55&border_radius=14&bg_color=0B1020&title_color=22D3EE&icon_color=8B5CF6&text_color=CBD5E1" alt="GitHub stats" />
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddshukla&layout=compact&border_color=1E2A55&border_radius=14&bg_color=0B1020&title_color=22D3EE&text_color=CBD5E1" alt="Top languages" />
-  <br><br>
-  <img width="100%" src="https://streak-stats.demolab.com/?user=siddshukla&border_radius=14&background=0B1020&stroke=1E2A55&ring=22D3EE&fire=8B5CF6&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B" alt="Streak" />
-  <br><br>
-  <!-- 3D contribution graph (generated by .github/workflows/profile-3d.yml) -->
-  <img width="100%" src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
-  <br><br>
-  <!-- Contribution snake (generated by .github/workflows/snake.yml) -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/siddshukla/siddshukla/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/siddshukla/siddshukla/output/github-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/siddshukla/siddshukla/output/github-snake-dark.svg" width="100%" />
-  </picture>
-</div>
+<!-- ═══════════════════════ 05 · CONNECT ═══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=64&color=0:0B1020,100:1E3A8A&text=05%20%C2%B7%20LET%E2%80%99S%20WORK%20TOGETHER&fontColor=F8FAFC&fontSize=24&fontAlign=14&fontAlignY=52&stroke=22D3EE&strokeWidth=1" width="100%" alt="Connect" />
 
 <br>
 
-<img src="assets/h-connect.svg" width="100%" alt="Connect" />
-<br><br>
-<img src="assets/footer.svg" width="100%" alt="Let's build something exceptional" />
-
 <div align="center">
-  <br>
-  <a href="https://www.siddharthshukla.tech/"><img src="https://img.shields.io/badge/VIEW_PORTFOLIO-22D3EE?style=for-the-badge&logo=vercel&logoColor=0B1020" /></a>
-  <a href="mailto:siddsanskshukla@gmail.com"><img src="https://img.shields.io/badge/GET_IN_TOUCH-6366F1?style=for-the-badge&logo=gmail&logoColor=FFFFFF" /></a>
-  <a href="https://linkedin.com/in/siddharth-shukla-811302272"><img src="https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" /></a>
+  <p><b>Open to full-stack roles, internships and ambitious collaborations.</b></p>
+  <a href="https://www.siddharthshukla.tech/"><img src="https://img.shields.io/badge/VIEW_PORTFOLIO-22D3EE?style=for-the-badge&logo=vercel&logoColor=0B1020" alt="Portfolio" /></a>
+  <a href="mailto:siddsanskshukla@gmail.com"><img src="https://img.shields.io/badge/GET_IN_TOUCH-6366F1?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" /></a>
+  <a href="https://linkedin.com/in/siddharth-shukla-811302272"><img src="https://img.shields.io/badge/CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </div>
+
+<!-- ═══════════════════════ FOOTER ═══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=160&color=0:22D3EE,55:1E3A8A,100:020617&text=Let%E2%80%99s%20build%20something%20exceptional&fontColor=F8FAFC&fontSize=22&fontAlignY=62" width="100%" alt="" />
